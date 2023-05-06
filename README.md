@@ -1,5 +1,6 @@
 # My Endpoint URL:
 http://image-filter-app-env.us-east-1.elasticbeanstalk.com/
+
 http://image-filter-app-env.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
 
 # Udagram Image Filtering Microservice
